@@ -1,0 +1,3 @@
+C:\Users\maxi-\source\repos\GasgleichungForms\GasgleichungForms\Debug\GasgleichungForms.vcxprojAssemblyReference.cache
+C:\Users\maxi-\source\repos\GasgleichungForms\GasgleichungForms\Debug\GasgleichungForms.Form1.resources
+C:\Users\maxi-\source\repos\GasgleichungForms\GasgleichungForms\Debug\GasgleichungForms.vcxproj.GenerateResource.cache
